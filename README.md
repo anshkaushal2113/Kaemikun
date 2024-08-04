@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on **Recursion Base Problem Solving In C and Python**
 
-- 🌱 I’m currently learning **C Programming**
+- 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **Python, Java Script**
+- 👯 I’m looking to collaborate on **Python, Java Script, C, C++**
 
 - 🤝 I’m looking for help with **C/C++**
 
 - 👨‍💻 All of my projects are available at [https://taupe-faun-f1f351.netlify.app/](https://taupe-faun-f1f351.netlify.app/)
 
-- 💬 Ask me about **Python, Java Script, CSS, HTML**
+- 💬 Ask me about **Python, Java Script, CSS, HTML, C, C++**
 
 - 📫 How to reach me **anshkaushal20072005@gmail.com**
 
